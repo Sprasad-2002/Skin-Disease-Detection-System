@@ -18,15 +18,7 @@
 
 ---
 
-# 🎥 Live Demonstration
 
-<p align="center">
-<img src="assets/demo.gif" width="100%">
-</p>
-
-> Replace `assets/demo.gif` with your project demo GIF.
-
----
 
 # 📌 Overview
 
